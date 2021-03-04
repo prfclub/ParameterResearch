@@ -4,7 +4,7 @@
 <li> We test the machine learning models to prepare a report </li>
 <li> We stock our data that we obtain and we use those for future works </li>
 
-## How we are doing ?
+## How are we doing ?
 
 <li> Firstly , we plan our working steps and we decide our assignments. </li>
 <li> Secondly , we work on our assignments and we analyze the results of our works </li>
