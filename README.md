@@ -6,6 +6,6 @@
 
 ## How we are doing ?
 
-<li> Firstly , we plan our working steps and we decide our assingments. </li>
-<li> Secondly , we work on our assigments and we analyze the results of our works </li>
-<li> Finally , we prepare a report about our intuition that we obtain in those works </li>
+<li> Firstly , we plan our working steps and we decide our assignments. </li>
+<li> Secondly , we work on our assignments and we analyze the results of our works </li>
+<li> Finally , we prepare a report about our informations that we obtain in those works </li>
